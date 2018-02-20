@@ -1,0 +1,58 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-size: 12px;
+	font-weight: normal;
+
+}
+
+html{
+	background-color: black;
+}
+
+body{
+	background-color: white;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.contenedor{
+	font-size: 16px;
+	font-weight: normal;
+	margin-top: 5px;
+	margin-bottom: 5px;	
+}
+
+h1{
+	font-size: 32px;
+	font-weight: bold;
+	padding: 5px 2px;
+	margin: 10px 2px;
+	font-family: sans-serif;
+}
+
+p{
+	font-size: 16px;
+	font-family: arial;
+	font-weight: normal;
+}
+
+.contenedor form{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.contenedor label{
+	font-size: 16px;
+	font-weight: normal;
+	font-family: arial;
+	display: block;
+}
+
+.contenedor button{
+	font-weight: bold;
+	font-size: 16px;
+	display: block;
+	margin-top: 5px;
+}
